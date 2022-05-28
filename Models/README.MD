@@ -1,10 +1,10 @@
-### Machine Learning Model
+# Machine Learning Models
 ## 1. MLPRegressor for Cardiopulmonary and Vascular risk detection
 
 ## 2. Custom CNN model for Arrhythmia
 ![alt text](https://github.com/Technix-Technothon2k22/Team-Delta/blob/main/Models/Health-AI/xlabels.png)
-Source = ECG Heartbeat Classification: A Deep Transferable Representation
-https://arxiv.org/abs/1805.00794
+Source = [ECG Heartbeat Classification: A Deep Transferable Representation](https://arxiv.org/abs/1805.00794)
+
 ## 3. Glucose level monitoring
 
 
